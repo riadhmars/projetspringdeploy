@@ -33,3 +33,4 @@ public class DetailFacture implements Serializable {
 	Facture facture;
 
 }
+//
